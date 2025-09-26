@@ -1,3 +1,3 @@
 #支持私库
 #支持指定架构 
-nvcr.io/nvidia/tritonserver:25.06-trtllm-python-py3
+soar97/triton-cosyvoice:25.06
