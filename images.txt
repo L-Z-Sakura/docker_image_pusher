@@ -1,3 +1,3 @@
 #支持私库
 #支持指定架构 
-ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlepaddle/paddle:3.2.2-gpu-cuda12.6-cudnn9.5
+lingxiao931/paddlespeech-gpu:base
