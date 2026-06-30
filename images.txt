@@ -1,3 +1,3 @@
 #支持私库
 #支持指定架构 
-nvcr.io/nvidia/tritonserver:25.01-py3-min
+nvcr.io/nvidia/tritonserver:25.01-py3
