@@ -1,3 +1,3 @@
 #支持私库
 #支持指定架构 
-nvcr.io/nvidia/tritonserver:26.06-py3
+python:3.10-slim
