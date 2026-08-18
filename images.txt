@@ -1,3 +1,3 @@
 #支持私库
 #支持指定架构 
-jejz/qinglong-arm:debian-2.18.3
+logikara/python3.10:latest
